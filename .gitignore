@@ -1,0 +1,5 @@
+autopush.sh
+__pycache__/
+*.pyc
+venv/
+.env
